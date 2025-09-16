@@ -1,0 +1,9 @@
+.photos img {
+  max-width: 200px;
+  margin: 15px 0px;
+  border-radius: 10px;
+}
+
+.photos .row {
+  padding: 0px 15px;
+}
