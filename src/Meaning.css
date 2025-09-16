@@ -1,4 +1,10 @@
 .meaning {
-  margin: 20px 40px;
+  margin: 5% 10%;
   text-align: left;
+  line-height: 1.8;
+}
+.meaning .partOfSpeech {
+  font-weight: 700;
+  font-size: 35px;
+  line-height: 1.5;
 }

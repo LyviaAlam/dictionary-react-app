@@ -1,3 +1,14 @@
 .synonyms {
   text-align: left;
+  padding-top: 10px;
+}
+.synonyms ul {
+  padding: 0;
+}
+.synonyms li {
+  display: inline-block;
+  margin: 0px 0px;
+  padding-right: 20px;
+  font-style: normal;
+  font-weight: 700;
 }

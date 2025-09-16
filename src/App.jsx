@@ -8,9 +8,9 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Welcome to React Dictionary App</h1>
+        <h1>Welcome to Dictionary</h1>
         <main>
-          <Dictionary />
+          <Dictionary keyword="inspiration" />
         </main>
       </div>
     </div>

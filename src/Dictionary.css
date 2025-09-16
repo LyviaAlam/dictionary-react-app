@@ -1,3 +1,38 @@
-.dictionary {
+.dictionary h5 {
   text-align: center;
+  padding-bottom: 10px;
+}
+
+.dictionary .search {
+  margin: 0 auto;
+  padding: 10px 0px 30px 0px;
+}
+.dictionary input {
+  margin: 0px auto;
+  padding: 20px 40px;
+  width: 65%;
+  border: #c77400 solid 2px;
+  border-radius: 35px;
+}
+.dictionary section {
+  background-color: rgba(255, 255, 255, 0.2);
+  width: 80%;
+  margin: 30px auto;
+  border-radius: 30px;
+  padding: 20px 20px;
+}
+.dictionary .search-button {
+  margin: 0px 10px;
+  padding: 20px 30px;
+  width: 15%;
+  border: #c77400 solid 2px;
+  background-color: white;
+  color: black;
+  border-radius: 35px;
+}
+
+.dictionary .search-button:hover {
+  background-color: #c77400;
+  color: white;
+  font-weight: bold;
 }
